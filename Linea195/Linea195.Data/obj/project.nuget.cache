@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DalmjwGgqWvLNXg7k/SIVtaK25UlQkWhJC1WGKH34E9fU3lsNUontM1bEjwk2kH4S+RIXqbzWRIax4+H2254yw==",
+  "dgSpecHash": "VpgMh7F1J0rI5+w/Ucx/PWEYyrIeeVYIoLRRyhuXcoeAl3e7Ks/DQLWoaan6qLeGUhd0yJdIy899AJgsn0XDOg==",
   "success": true,
   "projectFilePath": "C:\\Users\\santi\\Documents\\GitHub\\ProjectLinea195\\Linea195\\Linea195.Data\\Linea195.Data.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\santi\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\santi\\.nuget\\packages\\npgsql\\6.0.2\\npgsql.6.0.2.nupkg.sha512",
     "C:\\Users\\santi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],

@@ -1,5 +1,6 @@
 using Linea195.Data;
-
+using Npgsql;
+var cs = "Server=127.0.0.1;Port=5432;Database=Linea195;User=postgres;Password=98060751340";
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -26,4 +27,5 @@ app.MapControllers();
 
 app.Run();
 
-var postgreSQLConnectionConfiguration=new PostgreSQLConfiguration(Configuration.GetConnectionString())
+using var con = new NpgsqlConnection(cs);
+con.Open();
