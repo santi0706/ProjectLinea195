@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "08020e47-060d-4004-a04e-0f1a8f63a217": {
+      "ProjectGuid": "08020e47-060d-4004-a04e-0f1a8f63a217",
+      "DisplayName": "Linea195",
+      "ColorIndex": 0
+    },
+    "25d6c2ff-4d38-4622-93ba-3ec2571e6dd8": {
+      "ProjectGuid": "25d6c2ff-4d38-4622-93ba-3ec2571e6dd8",
+      "DisplayName": "Linea195.Data",
+      "ColorIndex": 1
+    },
+    "2ae51969-c340-4f5e-851b-4f744b889b49": {
+      "ProjectGuid": "2ae51969-c340-4f5e-851b-4f744b889b49",
+      "DisplayName": "Linea195.Model",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
